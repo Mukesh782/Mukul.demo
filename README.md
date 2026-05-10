@@ -1,4 +1,4 @@
 # Mukul.demo
-This iss my first Git Repositary
+This is my first Git Repositary
 <br>
 Author-Mukul Rajput
